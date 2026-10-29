@@ -34,23 +34,6 @@ hiring patterns.
 -   **Interactive exploration:** Filters and slicers help users explore
     the report.
 
-## Dataset
-
-The analysis uses job-posting data stored in a CSV file. The original
-dataset is kept unchanged; any transformed or summary data is created
-separately.
-
-Before sharing the dataset publicly, confirm that its licence and source
-permit redistribution. Do not upload confidential or restricted data.
-
-## Project Files
-
-Depending on what is included in the repository, files may include: -
-`Data_Science_Job_Market_Analysis.pdf` --- exported report for
-viewing. - `Data_Science_Job_Market_Analysis.pbix` --- editable Power BI
-report. - `eda_data.csv` --- original dataset, only if public sharing is
-permitted. - Supporting CSV files --- transformed or summarized data, if
-included.
 
 ## How to View
 
